@@ -1,0 +1,13 @@
+header {
+    background-color: aqua;
+}
+
+body {
+    background-color: gray;
+}
+jumbotron {
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 20px;
+    width: 700px;
+}
